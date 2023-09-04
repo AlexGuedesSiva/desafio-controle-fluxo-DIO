@@ -5,7 +5,7 @@ www.dio.me
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
-- [Alex Guedes] (https://github.com/AlexGuedesSiva)
+- [Alex Guedes](https://github.com/AlexGuedesSiva)
 
 ## Controle de Fluxo - Desafio
 
